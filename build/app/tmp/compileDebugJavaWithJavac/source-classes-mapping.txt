@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/johnsensei/spaceexploration/space/BuildConfig.java
+ com.johnsensei.spaceexploration.space.BuildConfig
